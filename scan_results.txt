@@ -1,0 +1,1 @@
+# Nmap 7.97 scan initiated Mon May 26 11:01:07 2025 as: nmap -sS -oN scan_results.txt 192.168.1.0/24
